@@ -1,0 +1,27 @@
+### git
+/.git
+.gitattributes
+
+### jupyter
+*.ipynb
+/.ipynb_checkpoints
+/.jupyter
+
+### notebooks
+/notebooks
+
+### virtual env
+/venv
+.env
+
+# download folder
+/tmp
+
+# misc
+.DS_Store
+run.sh
+*.log
+
+
+
+.DS_Store
